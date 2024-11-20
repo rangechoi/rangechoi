@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @rangechoi
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python/Go
-- 📫 How to reach me rangechoi@foxmail.com
